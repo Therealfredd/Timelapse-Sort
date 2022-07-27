@@ -7,7 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Click="Start_button">Start!</Button>
-
+        <Button Name="Button" Content="Start!" Click="Start_button"/>
     </Grid>
 </Window>
